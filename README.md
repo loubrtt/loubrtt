@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @loubrtt
+- 🌱 I’m currently learning C, since nov 24, 42 Paris ...
+- 📫 How to reach me : Linked in : https://www.linkedin.com/in/lou-briottet/
+- 😄 Pronouns: she / her,
