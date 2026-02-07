@@ -64,7 +64,7 @@ Check out my repositories to see implementations of:
 
 ## 📫 Get in Touch
 
-Always open to discussing technology, collaborating on interesting projects, or exploring **internship opportunities in backend development or DevOps**.
+Always open to discussing technology, collaborating on interesting projects, or exploring **internship opportunities in fullstack development or DevOps**.
 
 ---
 
