@@ -40,7 +40,6 @@ I specialize in **modern web development** and **backend infrastructure**, with 
 I'm currently developing:
 
 - **ft_transcendence** – A full-stack web application with React frontend, Fastify backend, and PostgreSQL database, featuring real-time social interactions, gamification systems, and user management
-- **Feedelity** – A business solution helping restaurants with modern web presence and QR code menus, deployed on Vercel with automated CI/CD
 - **Production HTTP Server** – A C++ implementation handling concurrent connections with epoll-based event notification
 - **Containerized Infrastructure** – Multi-service Docker orchestration with automated configuration
 
