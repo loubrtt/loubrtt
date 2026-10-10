@@ -38,7 +38,7 @@ I specialize in **modern web development** and **backend infrastructure**, with 
 ## 🚀 Current Work
 
 I'm currently developing:
-
+- Internal tools for my company **Deskeo**
 - **ft_transcendence** – A full-stack web application with React frontend, Fastify backend, and PostgreSQL database, featuring real-time social interactions, gamification systems, and user management
 - **Production HTTP Server** – A C++ implementation handling concurrent connections with epoll-based event notification
 - **Containerized Infrastructure** – Multi-service Docker orchestration with automated configuration
